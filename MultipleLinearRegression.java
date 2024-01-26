@@ -1,3 +1,5 @@
+//このコードは自分で作成したコードをGPTにリファクタリングさせたものです train下にAdamを搭載
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
